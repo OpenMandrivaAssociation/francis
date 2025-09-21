@@ -24,6 +24,7 @@ BuildRequires:	cmake(KF6CoreAddons)
 BuildRequires:	cmake(KF6DBusAddons)
 BuildRequires:	cmake(KF6Config)
 BuildRequires:	cmake(KF6I18n)
+BuildRequires:	cmake(KF6KirigamiAddons)
 
 %description
 Time tracking application making use of the pomodoro technique
