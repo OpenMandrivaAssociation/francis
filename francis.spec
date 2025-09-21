@@ -21,6 +21,7 @@ BuildRequires:	cmake(Qt6CoreTools)
 BuildRequires:	cmake(Qt6Test)
 BuildRequires:	cmake(KF6Kirigami)
 BuildRequires:	cmake(KF6CoreAddons)
+BuildRequires:	cmake(KF6DBusAddons)
 BuildRequires:	cmake(KF6Config)
 BuildRequires:	cmake(KF6I18n)
 
