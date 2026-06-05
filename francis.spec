@@ -1,5 +1,5 @@
 Name:		francis
-Version:	26.04.0
+Version:	26.04.2
 Release:	1
 Source0:	https://download.kde.org/stable/release-service/%{version}/src/%{name}-%{version}.tar.xz
 Summary:	Time tracking application
