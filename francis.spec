@@ -1,6 +1,6 @@
 Name:		francis
-Version:	26.08.1
-Release:	2
+Version:	26.08.2
+Release:	1
 Source0:	https://download.kde.org/stable/release-service/%{version}/src/%{name}-%{version}.tar.xz
 Summary:	Time tracking application
 URL:		https://invent.kde.org/utilities/francis
